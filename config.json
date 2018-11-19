@@ -1,0 +1,8 @@
+{
+  "filePath": "./image",
+  "outPath": "./output",
+  "imageName": "test",
+  "nextDir": "newindex",
+  "nextDir_1": "newindex2/images/activity",
+  "nextDirArr": ["1", "2", "bir"]
+}
